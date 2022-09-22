@@ -1,0 +1,19 @@
+.navbar-brand img {
+    max-width: 100px;
+}
+
+
+@media (min-width:992px) {
+    .navbar-brand img {
+        max-width: 180px;
+    }
+}
+
+
+.navbar-sup-icon {
+    height: 1.50em;
+}
+
+.bg-dark-venex {
+    background-color: #37373f;
+}
